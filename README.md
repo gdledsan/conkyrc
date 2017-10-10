@@ -3,8 +3,14 @@ Conky configuration file
 
 This is my Conky configuration files.
 
-![Conky](https://raw.github.com/zenzire/conkyrc/master/screenshot.png)
+![Conky](https://github.com/gdledsan/conkyrc/raw/master/Screenshot.png)
 
+Notes
+------------
+Cloned from [here](https://github.com/zenzire/conkyrc)
+Kept the images and icons for future customization.
+
+Removed the weather coolness because I do not want to keep changes the locations on the conkyrc file.
 
 Installation
 ------------
@@ -25,8 +31,9 @@ Enjoy!
 
 Features
 --------
-
-* CPU graph
-* memory graph
-* network graph
-* processes
+*   Uptime %
+*   Battery %
+*   CPU graph
+*   memory graph
+*   network graph
+*   processes
