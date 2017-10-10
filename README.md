@@ -27,9 +27,12 @@ Enjoy!
 
 Features
 --------
-*   Uptime %
+*   Uptime
 *   Battery %
 *   CPU graph
 *   memory graph
 *   network graph
 *   processes
+*   Megaman wallpaper in repo!
+
+![wallpaper](https://github.com/gdledsan/conkyrc/raw/master/Megaman.jpg)
