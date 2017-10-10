@@ -15,13 +15,9 @@ Removed the weather coolness because I do not want to keep changes the locations
 Installation
 ------------
 
-Fetch the configuration files from GitHub repository:
+Clone this repo to `~/.conky/`
 
-``
-$ git clone git://github.com/zenzire/conkyrc.git ~/.conky/conky2
-``
-
-add conky to startup:
+add conky to startup with this command:
 
 ``
 conky -d -c ~/.conky/conky2/conkyrc  
