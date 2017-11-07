@@ -14,6 +14,7 @@ Removed the weather coolness because I do not want to keep changes the locations
 
 Installation
 ------------
+install package conky-all
 
 Clone this repo to `~/.conky/`
 
